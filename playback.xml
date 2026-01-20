@@ -874,25 +874,25 @@
         <title lang="zh">本集提要-小城大事-第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120193000 +0800" stop="20260120202355 +0800">
-        <title lang="zh">小城大事21/40</title>
+        <title lang="zh">小城大事第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120202355 +0800" stop="20260120202855 +0800">
-        <title lang="zh">本集提要-小城大事-22/40</title>
+        <title lang="zh">本集提要-小城大事-第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120202855 +0800" stop="20260120212030 +0800">
-        <title lang="zh">小城大事22/40</title>
+        <title lang="zh">小城大事第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120212030 +0800" stop="20260120212530 +0800">
         <title lang="zh">本集提要-人民的选择-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120212530 +0800" stop="20260120221515 +0800">
-        <title lang="zh">人民的选择19/26</title>
+        <title lang="zh">人民的选择第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120221515 +0800" stop="20260120221700 +0800">
         <title lang="zh">本集提要-人民的选择-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120221700 +0800" stop="20260120230700 +0800">
-        <title lang="zh">人民的选择20/26</title>
+        <title lang="zh">人民的选择第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120230700 +0800" stop="20260120235300 +0800">
         <title lang="zh">扫毒风暴第25集</title>
@@ -6342,86 +6342,86 @@
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20260119232500 +0800" stop="20260120001700 +0800">
-        <title lang="zh">40集连续剧：决胜（31）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20260120001700 +0800" stop="20260120005800 +0800">
+    <programme channel="上视东方影视" start="20260119235900 +0800" stop="20260120003800 +0800">
         <title lang="zh">40集连续剧：决胜（32）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120005800 +0800" stop="20260120060800 +0800">
+    <programme channel="上视东方影视" start="20260120003800 +0800" stop="20260120060400 +0800">
         <title lang="zh">40集连续剧：决胜（33）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120060800 +0800" stop="20260120070200 +0800">
+    <programme channel="上视东方影视" start="20260120060400 +0800" stop="20260120065500 +0800">
         <title lang="zh">36集连续剧：女子特战队（14）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120070200 +0800" stop="20260120080100 +0800">
+    <programme channel="上视东方影视" start="20260120065500 +0800" stop="20260120074800 +0800">
         <title lang="zh">36集连续剧：女子特战队（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120080100 +0800" stop="20260120084600 +0800">
+    <programme channel="上视东方影视" start="20260120074800 +0800" stop="20260120083600 +0800">
         <title lang="zh">38集连续剧：致命行动（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120084600 +0800" stop="20260120090600 +0800">
+    <programme channel="上视东方影视" start="20260120083600 +0800" stop="20260120085200 +0800">
         <title lang="zh">36.7℃</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120090600 +0800" stop="20260120095900 +0800">
+    <programme channel="上视东方影视" start="20260120085200 +0800" stop="20260120094400 +0800">
         <title lang="zh">38集连续剧：致命行动（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120095900 +0800" stop="20260120105600 +0800">
+    <programme channel="上视东方影视" start="20260120094400 +0800" stop="20260120103700 +0800">
         <title lang="zh">38集连续剧：致命行动（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120105600 +0800" stop="20260120115000 +0800">
+    <programme channel="上视东方影视" start="20260120103700 +0800" stop="20260120112900 +0800">
         <title lang="zh">38集连续剧：致命行动（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120115000 +0800" stop="20260120124400 +0800">
+    <programme channel="上视东方影视" start="20260120112900 +0800" stop="20260120121800 +0800">
         <title lang="zh">38集连续剧：致命行动（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120124400 +0800" stop="20260120132800 +0800">
+    <programme channel="上视东方影视" start="20260120121800 +0800" stop="20260120123000 +0800">
+        <title lang="zh">环球家乡味(1)第一章</title>
+    </programme>
+    <programme channel="上视东方影视" start="20260120123000 +0800" stop="20260120124600 +0800">
+        <title lang="zh">环球家乡味(1)第二章</title>
+    </programme>
+    <programme channel="上视东方影视" start="20260120124600 +0800" stop="20260120133700 +0800">
         <title lang="zh">45集连续剧：忍冬艳蔷薇（21）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120132800 +0800" stop="20260120133800 +0800">
+    <programme channel="上视东方影视" start="20260120133700 +0800" stop="20260120135300 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120133800 +0800" stop="20260120143200 +0800">
+    <programme channel="上视东方影视" start="20260120135300 +0800" stop="20260120144900 +0800">
         <title lang="zh">45集连续剧：忍冬艳蔷薇（22）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120143200 +0800" stop="20260120152800 +0800">
+    <programme channel="上视东方影视" start="20260120144900 +0800" stop="20260120154500 +0800">
         <title lang="zh">45集连续剧：忍冬艳蔷薇（23）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120152800 +0800" stop="20260120162200 +0800">
+    <programme channel="上视东方影视" start="20260120154500 +0800" stop="20260120163500 +0800">
         <title lang="zh">39集连续剧：飞虎队（7）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120162200 +0800" stop="20260120171500 +0800">
+    <programme channel="上视东方影视" start="20260120163500 +0800" stop="20260120172300 +0800">
         <title lang="zh">39集连续剧：飞虎队（8）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120171500 +0800" stop="20260120180500 +0800">
+    <programme channel="上视东方影视" start="20260120172300 +0800" stop="20260120181100 +0800">
         <title lang="zh">39集连续剧：飞虎队（9）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120180500 +0800" stop="20260120185000 +0800">
+    <programme channel="上视东方影视" start="20260120181100 +0800" stop="20260120185000 +0800">
         <title lang="zh">39集连续剧：飞虎队（10）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120185000 +0800" stop="20260120194200 +0800">
+    <programme channel="上视东方影视" start="20260120185000 +0800" stop="20260120193800 +0800">
         <title lang="zh">38集连续剧：致命行动（6）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120194200 +0800" stop="20260120203400 +0800">
+    <programme channel="上视东方影视" start="20260120193800 +0800" stop="20260120203200 +0800">
         <title lang="zh">38集连续剧：致命行动（7）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120203400 +0800" stop="20260120212300 +0800">
+    <programme channel="上视东方影视" start="20260120203200 +0800" stop="20260120212500 +0800">
         <title lang="zh">38集连续剧：致命行动（8）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120212300 +0800" stop="20260120221000 +0800">
+    <programme channel="上视东方影视" start="20260120212500 +0800" stop="20260120221700 +0800">
         <title lang="zh">38集连续剧：致命行动（9）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120221000 +0800" stop="20260120230000 +0800">
+    <programme channel="上视东方影视" start="20260120221700 +0800" stop="20260120230600 +0800">
         <title lang="zh">38集连续剧：致命行动（10）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120230000 +0800" stop="20260120232500 +0800">
+    <programme channel="上视东方影视" start="20260120230600 +0800" stop="20260120232000 +0800">
         <title lang="zh">36.7℃</title>
     </programme>
-    <programme channel="上视东方影视" start="20260120232500 +0800" stop="20260120235000 +0800">
+    <programme channel="上视东方影视" start="20260120232000 +0800" stop="20260121000100 +0800">
         <title lang="zh">40集连续剧：决胜（34）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20260120235000 +0800" stop="20260121000000 +0800">
-        <title lang="zh">40集连续剧：决胜（35）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
