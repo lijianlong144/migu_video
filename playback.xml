@@ -105,10 +105,13 @@
     <programme channel="CCTV1综合" start="20260122215320 +0800" stop="20260122220000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260122220000 +0800" stop="20260122223600 +0800">
+    <programme channel="CCTV1综合" start="20260122220000 +0800" stop="20260122223500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260122223600 +0800" stop="20260122235900 +0800">
+    <programme channel="CCTV1综合" start="20260122223500 +0800" stop="20260122231200 +0800">
+        <title lang="zh">礼仪中国-7</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260122231200 +0800" stop="20260122235900 +0800">
         <title lang="zh">山水间的家（第四季）-4</title>
     </programme>
     <channel id="CCTV2财经">
