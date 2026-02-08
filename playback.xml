@@ -480,13 +480,13 @@
     <programme channel="CCTV5体育" start="20260208172500 +0800" stop="20260208180000 +0800">
         <title lang="zh">2026年米兰-科尔蒂纳冬奥会 速度滑冰女子3000米决赛（录像）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260208180000 +0800" stop="20260208220000 +0800">
+    <programme channel="CCTV5体育" start="20260208180000 +0800" stop="20260208225000 +0800">
         <title lang="zh">2026年乒乓球亚洲杯-决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260208220000 +0800" stop="20260208230000 +0800">
+    <programme channel="CCTV5体育" start="20260208225000 +0800" stop="20260208235000 +0800">
         <title lang="zh">体育世界-全景米兰</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260208230000 +0800" stop="20260208235900 +0800">
+    <programme channel="CCTV5体育" start="20260208235000 +0800" stop="20260208235900 +0800">
         <title lang="zh">2026年米兰-科尔蒂纳冬奥会 速度滑冰男子5000米</title>
     </programme>
     <channel id="CCTV5+体育赛事">
