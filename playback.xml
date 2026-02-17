@@ -54,13 +54,10 @@
     <programme channel="CCTV1综合" start="20260217110421 +0800" stop="20260217114746 +0800">
         <title lang="zh">2026年春节联欢晚会-5/8</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260217114746 +0800" stop="20260217120000 +0800">
+    <programme channel="CCTV1综合" start="20260217114746 +0800" stop="20260217125152 +0800">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260217120000 +0800" stop="20260217123000 +0800">
-        <title lang="zh">新闻30分</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260217123000 +0800" stop="20260217132543 +0800">
+    <programme channel="CCTV1综合" start="20260217125152 +0800" stop="20260217132543 +0800">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
     <programme channel="CCTV1综合" start="20260217132543 +0800" stop="20260217135509 +0800">
@@ -520,7 +517,7 @@
         <title lang="zh">2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子大跳台决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260217211500 +0800" stop="20260217214500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧资格赛2</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会 冰壶男子循环赛 美国VS中国</title>
     </programme>
     <programme channel="CCTV5体育" start="20260217214500 +0800" stop="20260217232200 +0800">
         <title lang="zh">体育世界-全景米兰</title>
