@@ -2,6 +2,7 @@
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV4中文国际,http://pull-hs-f5.flive.douyincdn.com/media/stream-695353332820345516/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772243879&major_anchor_level=common&sign=6cd8f28eafdef8bd249575e335f82e87&t_id=037-20260221095758FAD9DBB34892688D1BA0-n1SgZ8&volcSecret=6cd8f28eafdef8bd249575e335f82e87&volcTime=1772243879
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-695351030788129452.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69a2297b&major_anchor_level=common&sign=4f1be331e2584c169c330e1a3b671f22&t_id=037-202602210732117C17EB2A24933AC55F91-zYRYdW
 卫视频道,#genre#
@@ -17,8 +18,18 @@ CCTV17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-69535103078812
 广西卫视,http://61.169.47.100:10081/hls/21/index.m3u8
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 广东地区,#genre#
+广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+广东现代教育,http://183.239.226.235:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8
+广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
+深圳都市,http://116.77.33.98:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南地区,#genre#
+中方台,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+古丈1,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 电视剧频道,#genre#
 放映室5,#genre#
 粤语频道,#genre#
@@ -100,6 +111,8 @@ CCTV17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-69535103078812
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 广西地区,#genre#
 安徽地区,#genre#
+宿州综合,http://live.ahsz.tv/video/s10001-xwzh-hd/index.m3u8
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 吉林地区,#genre#
 重庆地区,#genre#
@@ -145,13 +158,11 @@ CCTV17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-69535103078812
 迁西农业,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 福建地区,#genre#
-漳浦综合,http://183.250.71.80:8090/hls/0/index.m3u8
 河南地区,#genre#
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考综合,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 伊川综合,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
 周口新闻综合,http://222.136.190.68:8081/live/6520562530090312540.m3u8
@@ -261,7 +272,6 @@ CCTV17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-69535103078812
 新密新闻频道,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
-江夏综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 山东地区,#genre#
 新疆地区,#genre#
 山西地区,#genre#
