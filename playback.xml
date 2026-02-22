@@ -1272,10 +1272,10 @@
     <programme channel="CCTV13新闻" start="20260222034400 +0800" stop="20260222040000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260222040000 +0800" stop="20260222042500 +0800">
+    <programme channel="CCTV13新闻" start="20260222040000 +0800" stop="20260222042200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260222042500 +0800" stop="20260222050000 +0800">
+    <programme channel="CCTV13新闻" start="20260222042200 +0800" stop="20260222050000 +0800">
         <title lang="zh">2026吾家吾国-4</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260222050000 +0800" stop="20260222051200 +0800">
@@ -1338,10 +1338,13 @@
     <programme channel="CCTV13新闻" start="20260222213000 +0800" stop="20260222220500 +0800">
         <title lang="zh">2026吾家吾国-5</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260222220500 +0800" stop="20260222224000 +0800">
+    <programme channel="CCTV13新闻" start="20260222220500 +0800" stop="20260222225000 +0800">
+        <title lang="zh">面对面</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20260222225000 +0800" stop="20260222232000 +0800">
         <title lang="zh">2026时政专题片-(访谈特别节目—新春走基层)</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260222224000 +0800" stop="20260222235900 +0800">
+    <programme channel="CCTV13新闻" start="20260222232000 +0800" stop="20260222235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
