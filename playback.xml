@@ -2994,26 +2994,173 @@
     <channel id="赛事最经典">
         <display-name lang="zh">赛事最经典</display-name>
     </channel>
-    <programme channel="赛事最经典" start="20260223222900 +0800" stop="20260224002100 +0800">
-        <title lang="zh">西甲第22轮：皇家马德里VS巴列卡诺</title>
+    <programme channel="赛事最经典" start="20260224000000 +0800" stop="20260224013700 +0800">
+        <title lang="zh">西甲第17轮：比利亚雷亚尔VS巴塞罗那</title>
     </programme>
-    <programme channel="赛事最经典" start="20260224002100 +0800" stop="20260225000000 +0800">
-        <title lang="zh">2025-2026西甲联赛第20轮：马德里竞技VS阿拉维斯</title>
+    <programme channel="赛事最经典" start="20260224013700 +0800" stop="20260224023600 +0800">
+        <title lang="zh">国际乒联混合团体世界杯第1轮：中国VS中国香港</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224023600 +0800" stop="20260224041200 +0800">
+        <title lang="zh">国足U17亚洲杯预选赛：中国VS孟加拉国</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224041200 +0800" stop="20260224055600 +0800">
+        <title lang="zh">西甲第14轮：巴塞罗那VS阿拉维斯</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224055600 +0800" stop="20260224073400 +0800">
+        <title lang="zh">西甲第13轮：皇家贝蒂斯VS赫罗纳</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224073400 +0800" stop="20260224091000 +0800">
+        <title lang="zh">2025-2026赛季西甲第13轮：巴塞罗那VS毕尔巴鄂竞技</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224091000 +0800" stop="20260224105200 +0800">
+        <title lang="zh">2025-2026赛季英超第12轮：利物浦VS诺丁汉森林</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224105200 +0800" stop="20260224132200 +0800">
+        <title lang="zh">全运会乒乓球男子团体决赛：北京VS上海</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224132200 +0800" stop="20260224140600 +0800">
+        <title lang="zh">全运会羽毛球混双决赛：郑思维、黄雅琼VS周志宏、魏雅欣</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224140600 +0800" stop="20260224161400 +0800">
+        <title lang="zh">全运会-网球男单金牌赛 商竣程VS吴易昺</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224161400 +0800" stop="20260224192000 +0800">
+        <title lang="zh">全运会-乒乓球女子团体决赛 河北VS山东</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224192000 +0800" stop="20260224204500 +0800">
+        <title lang="zh">全运会-乒乓球男团半决赛 广东VS北京</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224204500 +0800" stop="20260224225800 +0800">
+        <title lang="zh">全运会乒乓球男团四分之一决赛：上海3比0河北</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260224225800 +0800" stop="20260225002100 +0800">
+        <title lang="zh">全运会-乒乓球女单决赛 孙颖莎VS王曼昱</title>
     </programme>
     <channel id="体坛名栏汇">
         <display-name lang="zh">体坛名栏汇</display-name>
     </channel>
-    <programme channel="体坛名栏汇" start="20260223232200 +0800" stop="20260224001900 +0800">
-        <title lang="zh">《逐冰追雪》重回首钢“雪飞天” 苏翊鸣继续逐梦</title>
+    <programme channel="体坛名栏汇" start="20260224000000 +0800" stop="20260224001400 +0800">
+        <title lang="zh">艺术里的奥林匹克20251004成都 再见 成都</title>
     </programme>
-    <programme channel="体坛名栏汇" start="20260224001900 +0800" stop="20260224011400 +0800">
-        <title lang="zh">《逐冰追雪》20250321短道速滑世锦赛</title>
+    <programme channel="体坛名栏汇" start="20260224001400 +0800" stop="20260224002900 +0800">
+        <title lang="zh">艺术里的奥林匹克20251005新体育 新笔墨</title>
     </programme>
-    <programme channel="体坛名栏汇" start="20260224011400 +0800" stop="20260224020900 +0800">
-        <title lang="zh">《逐冰追雪》重回福地 徐梦桃 齐广璞云顶力争圆梦</title>
+    <programme channel="体坛名栏汇" start="20260224002900 +0800" stop="20260224004300 +0800">
+        <title lang="zh">艺术里的奥林匹克20250921马踏春秋 从浴马图到马球</title>
     </programme>
-    <programme channel="体坛名栏汇" start="20260224020900 +0800" stop="20260225000000 +0800">
-        <title lang="zh">足球之夜20260122从胜利走向胜利 决战巅峰</title>
+    <programme channel="体坛名栏汇" start="20260224004300 +0800" stop="20260224005800 +0800">
+        <title lang="zh">艺术里的奥林匹克20250927马踏春秋 昭陵六骏</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224005800 +0800" stop="20260224011200 +0800">
+        <title lang="zh">艺术里的奥林匹克20250928成都张开怀抱</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224011200 +0800" stop="20260224012700 +0800">
+        <title lang="zh">艺术里的奥林匹克20250914马踏春秋 从草原到赛场</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224012700 +0800" stop="20260224014200 +0800">
+        <title lang="zh">艺术里的奥林匹克20250913如意馆小叙 冰嬉</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224014200 +0800" stop="20260224015600 +0800">
+        <title lang="zh">艺术里的奥林匹克20250906如意馆小叙 竞舟</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224015600 +0800" stop="20260224021100 +0800">
+        <title lang="zh">艺术里的奥林匹克20250907如意馆小叙 秋狝</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224021100 +0800" stop="20260224022600 +0800">
+        <title lang="zh">艺术里的奥林匹克20250830无畏风浪</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224022600 +0800" stop="20260224030900 +0800">
+        <title lang="zh">篮球公园20251226篮谈2025</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224030900 +0800" stop="20260224035400 +0800">
+        <title lang="zh">篮球公园20251219对话——杨力维</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224035400 +0800" stop="20260224050200 +0800">
+        <title lang="zh">篮球公园20251212 CBA新赛季即将揭幕</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224050200 +0800" stop="20260224054700 +0800">
+        <title lang="zh">篮球公园20251205 WCBA新赛季揭幕</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224054700 +0800" stop="20260224063100 +0800">
+        <title lang="zh">篮球公园20251128对话——杨舒予</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224063100 +0800" stop="20260224071400 +0800">
+        <title lang="zh">篮球公园20251107对话——程帅澎</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224071400 +0800" stop="20260224075800 +0800">
+        <title lang="zh">篮球公园20251031青春30年：姚明</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224075800 +0800" stop="20260224084000 +0800">
+        <title lang="zh">篮球公园20251024青春30年：姚明</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224084000 +0800" stop="20260224092300 +0800">
+        <title lang="zh">篮球公园20251017对话——黄思静</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224092300 +0800" stop="20260224100700 +0800">
+        <title lang="zh">篮球公园20251010对话——赵睿</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224100700 +0800" stop="20260224101800 +0800">
+        <title lang="zh">天下足球2025年度失意阵容</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224101800 +0800" stop="20260224110800 +0800">
+        <title lang="zh">天下足球20251222哈兰德超越传奇</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224110800 +0800" stop="20260224114600 +0800">
+        <title lang="zh">天下足球20251215巴萨稳居榜首</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224114600 +0800" stop="20260224123600 +0800">
+        <title lang="zh">天下足球20251208 2026年世界杯十大看点</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224123600 +0800" stop="20260224135500 +0800">
+        <title lang="zh">天下足球20251201“齐”迹再现</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224135500 +0800" stop="20260224144400 +0800">
+        <title lang="zh">天下足球20251124 C罗：用数字说话</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224144400 +0800" stop="20260224153400 +0800">
+        <title lang="zh">天下足球20251103探访香港C罗博物馆</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224153400 +0800" stop="20260224162400 +0800">
+        <title lang="zh">天下足球20251027国家德比</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224162400 +0800" stop="20260224171500 +0800">
+        <title lang="zh">天下足球20251020佛得角：岛国奇迹</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224171500 +0800" stop="20260224173900 +0800">
+        <title lang="zh">体坛零距离20251225全运之约：巩立姣 杨家玉</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224173900 +0800" stop="20260224180300 +0800">
+        <title lang="zh">体坛零距离20251218二十一年苏炳添</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224180300 +0800" stop="20260224182700 +0800">
+        <title lang="zh">体坛零距离20251211全运之约 汪顺 张雨霏</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224182700 +0800" stop="20260224183500 +0800">
+        <title lang="zh">体坛零距离20251209苏炳添</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224183500 +0800" stop="20260224184600 +0800">
+        <title lang="zh">体坛零距离20251204全运之约陈艺文</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224184600 +0800" stop="20260224193600 +0800">
+        <title lang="zh">足球之夜20251225足球传承</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224193600 +0800" stop="20260224202600 +0800">
+        <title lang="zh">足球之夜20251218国奥队出征 双子星的一年</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224202600 +0800" stop="20260224211500 +0800">
+        <title lang="zh">足球之夜20251204中国U16男足国家队</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224211500 +0800" stop="20260224220600 +0800">
+        <title lang="zh">足球之夜20251211国安登顶足球的变化</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224220600 +0800" stop="20260224225500 +0800">
+        <title lang="zh">足球之夜20251127中超大结局：告别青岛</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224225500 +0800" stop="20260224235400 +0800">
+        <title lang="zh">足球之夜20251106本土帅 少年的天空</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260224235400 +0800" stop="20260225004400 +0800">
+        <title lang="zh">足球之夜20251030女足折翼 辽足冲超</title>
     </programme>
     <channel id="四海钓鱼">
         <display-name lang="zh">四海钓鱼</display-name>
