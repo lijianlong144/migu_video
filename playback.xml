@@ -687,16 +687,13 @@
     <programme channel="CCTV7国防军事" start="20260301204300 +0800" stop="20260301214645 +0800">
         <title lang="zh">兵器面面观-环球兵器大事件-2026-9</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260301214645 +0800" stop="20260301221645 +0800">
+    <programme channel="CCTV7国防军事" start="20260301214645 +0800" stop="20260301222115 +0800">
         <title lang="zh">时光军史馆-2026-9</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260301221645 +0800" stop="20260301225115 +0800">
-        <title lang="zh">军武零距离-2026-4（4K）</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20260301225115 +0800" stop="20260301234145 +0800">
+    <programme channel="CCTV7国防军事" start="20260301222115 +0800" stop="20260301231145 +0800">
         <title lang="zh">掩不住的阳光17/38</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260301234145 +0800" stop="20260301235900 +0800">
+    <programme channel="CCTV7国防军事" start="20260301231145 +0800" stop="20260301235900 +0800">
         <title lang="zh">掩不住的阳光18/38</title>
     </programme>
     <channel id="CCTV8电视剧">
