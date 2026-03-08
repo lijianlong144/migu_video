@@ -1248,11 +1248,8 @@
     <programme channel="CCTV13新闻" start="20260308201200 +0800" stop="20260308210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260308210000 +0800" stop="20260308214700 +0800">
+    <programme channel="CCTV13新闻" start="20260308210000 +0800" stop="20260308221700 +0800">
         <title lang="zh">新闻联播</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260308214700 +0800" stop="20260308221700 +0800">
-        <title lang="zh">新闻1+1</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260308221700 +0800" stop="20260308230200 +0800">
         <title lang="zh">世界周刊</title>
