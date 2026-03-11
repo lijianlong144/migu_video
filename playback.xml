@@ -1272,10 +1272,10 @@
     <programme channel="CCTV13新闻" start="20260311060000 +0800" stop="20260311074500 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260311074500 +0800" stop="20260311094000 +0800">
+    <programme channel="CCTV13新闻" start="20260311074500 +0800" stop="20260311094500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260311094000 +0800" stop="20260311100000 +0800">
+    <programme channel="CCTV13新闻" start="20260311094500 +0800" stop="20260311100000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260311100000 +0800" stop="20260311110000 +0800">
@@ -1320,13 +1320,13 @@
     <programme channel="CCTV13新闻" start="20260311200000 +0800" stop="20260311210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260311210000 +0800" stop="20260311213000 +0800">
+    <programme channel="CCTV13新闻" start="20260311210000 +0800" stop="20260311213500 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260311213000 +0800" stop="20260311220000 +0800">
+    <programme channel="CCTV13新闻" start="20260311213500 +0800" stop="20260311220500 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260311220000 +0800" stop="20260311223000 +0800">
+    <programme channel="CCTV13新闻" start="20260311220500 +0800" stop="20260311223000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260311223000 +0800" stop="20260311230000 +0800">
