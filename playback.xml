@@ -495,13 +495,10 @@
     <programme channel="CCTV5体育" start="20260405183000 +0800" stop="20260405193000 +0800">
         <title lang="zh">实况录像-2026年世界室内田径锦标赛  3</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260405193000 +0800" stop="20260405213500 +0800">
+    <programme channel="CCTV5体育" start="20260405193000 +0800" stop="20260405221500 +0800">
         <title lang="zh">2026年国际乒联单打世界杯-决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260405213500 +0800" stop="20260405220500 +0800">
-        <title lang="zh">2025/2026西班牙足球甲级联赛-第29轮集锦</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260405220500 +0800" stop="20260405232900 +0800">
+    <programme channel="CCTV5体育" start="20260405221500 +0800" stop="20260405232900 +0800">
         <title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 3</title>
     </programme>
     <programme channel="CCTV5体育" start="20260405232900 +0800" stop="20260405235900 +0800">
