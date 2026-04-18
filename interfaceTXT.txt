@@ -1,8 +1,5 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV9纪录,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8
-CCTV5+体育赛事,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8
-CCTV10科教,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
 CCTV13新闻,http://pull-hs-f5.flive.douyincdn.com/media/stream-695673841736745644/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777024293&major_anchor_level=common&sign=f6682da45bdce7f96f53d16313146b61&t_id=037-20260417175133D81C1AE5A5DACC12A7A2-xfLslX&volcSecret=f6682da45bdce7f96f53d16313146b61&volcTime=1777024293
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906347&major_anchor_level=common&sign=81655df7686481f4cec91377da5b5b98&t_id=037-20260416090546B656952D837424ED6011-Fd7pkI
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
@@ -14,13 +11,17 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-407445889621164
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
+广东卫视,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8
+广西卫视,http://61.169.47.100:10081/hls/21/index.m3u8
 广东地区,#genre#
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
@@ -44,8 +45,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-407445889621164
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
-湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -152,6 +151,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-407445889621164
 兰考综合,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 伊川综合,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+周口新闻综合,http://222.136.190.68:8081/live/6520562530090312540.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 长垣综合,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
@@ -170,6 +170,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-407445889621164
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
@@ -258,10 +259,10 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-407445889621164
 新密新闻频道,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
-十堰经济旅游,http://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 山东地区,#genre#
 新疆地区,#genre#
 山西地区,#genre#
+黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 天津地区,#genre#
 贵州地区,#genre#
 海南地区,#genre#
