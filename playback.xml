@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-金关-第19集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260428200200 +0800" stop="20260428205235 +0800">
-        <title lang="zh">金关19/22</title>
+        <title lang="zh">金关第19集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260428205235 +0800" stop="20260428205515 +0800">
         <title lang="zh">前情提要-金关-第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260428205515 +0800" stop="20260428214710 +0800">
-        <title lang="zh">金关20/22</title>
+        <title lang="zh">金关第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260428214710 +0800" stop="20260428215110 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -4497,7 +4497,7 @@
     <programme channel="河北卫视" start="20260428233200 +0800" stop="20260428233500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260428233500 +0800" stop="20260429000000 +0800">
+    <programme channel="河北卫视" start="20260428233500 +0800" stop="20260429001200 +0800">
         <title lang="zh">毛泽东书信故事</title>
     </programme>
     <channel id="江西卫视">
@@ -5823,7 +5823,7 @@
     <programme channel="宁夏卫视" start="20260428231100 +0800" stop="20260428235800 +0800">
         <title lang="zh">平凡的世界(8)</title>
     </programme>
-    <programme channel="宁夏卫视" start="20260428235800 +0800" stop="20260429000000 +0800">
+    <programme channel="宁夏卫视" start="20260428235800 +0800" stop="20260429005800 +0800">
         <title lang="zh">百年巨匠:科技篇-钱学森</title>
     </programme>
     <channel id="重庆卫视">
@@ -5943,7 +5943,7 @@
     <programme channel="重庆卫视" start="20260428233400 +0800" stop="20260428234100 +0800">
         <title lang="zh">风景区气象服务</title>
     </programme>
-    <programme channel="重庆卫视" start="20260428234100 +0800" stop="20260429000000 +0800">
+    <programme channel="重庆卫视" start="20260428234100 +0800" stop="20260429003300 +0800">
         <title lang="zh">剧场:火线三兄弟</title>
     </programme>
     <channel id="三沙卫视">
