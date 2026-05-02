@@ -3684,10 +3684,10 @@
     <programme channel="24小时城市联赛轮播台" start="20260502185700 +0800" stop="20260502191000 +0800">
         <title lang="zh">山东齐鲁超赛第1轮全场回放：菏泽队3:0枣庄丰源轮胎队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260502191000 +0800" stop="20260502221000 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260502191000 +0800" stop="20260502220000 +0800">
         <title lang="zh">江苏苏超常规赛第4周:南京队VS常州队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260502221000 +0800" stop="20260502233600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260502220000 +0800" stop="20260502233600 +0800">
         <title lang="zh">湖北武汉城超第1轮全场回放：武汉引力空间93:85CHA海外仓</title>
     </programme>
     <programme channel="24小时城市联赛轮播台" start="20260502233600 +0800" stop="20260503013700 +0800">
@@ -3807,71 +3807,98 @@
     <programme channel="东方卫视" start="20260501225100 +0800" stop="20260502004800 +0800">
         <title lang="zh">微聚东方·2026微短剧品质盛典</title>
     </programme>
-    <programme channel="东方卫视" start="20260502004800 +0800" stop="20260502015600 +0800">
+    <programme channel="东方卫视" start="20260502004800 +0800" stop="20260502010000 +0800">
         <title lang="zh">大城无小事</title>
     </programme>
-    <programme channel="东方卫视" start="20260502015600 +0800" stop="20260502031100 +0800">
-        <title lang="zh">极速焕新家</title>
+    <programme channel="东方卫视" start="20260502010000 +0800" stop="20260502014100 +0800">
+        <title lang="zh">菩提树下(11)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502031100 +0800" stop="20260502031600 +0800">
-        <title lang="zh">建党百年</title>
+    <programme channel="东方卫视" start="20260502014100 +0800" stop="20260502022200 +0800">
+        <title lang="zh">菩提树下(12)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502031600 +0800" stop="20260502061600 +0800">
-        <title lang="zh">极速焕新家</title>
+    <programme channel="东方卫视" start="20260502022200 +0800" stop="20260502022500 +0800">
+        <title lang="zh">明日精彩看点</title>
     </programme>
-    <programme channel="东方卫视" start="20260502061600 +0800" stop="20260502063400 +0800">
-        <title lang="zh">急诊室故事</title>
+    <programme channel="东方卫视" start="20260502022500 +0800" stop="20260502030700 +0800">
+        <title lang="zh">菩提树下(13)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502063400 +0800" stop="20260502070000 +0800">
-        <title lang="zh">建党百年</title>
+    <programme channel="东方卫视" start="20260502030700 +0800" stop="20260502034900 +0800">
+        <title lang="zh">菩提树下(14)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502034900 +0800" stop="20260502043100 +0800">
+        <title lang="zh">菩提树下(15)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502043100 +0800" stop="20260502051300 +0800">
+        <title lang="zh">菩提树下(16)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502051300 +0800" stop="20260502051600 +0800">
+        <title lang="zh">明日精彩看点</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502051600 +0800" stop="20260502055800 +0800">
+        <title lang="zh">菩提树下(17)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502055800 +0800" stop="20260502064000 +0800">
+        <title lang="zh">菩提树下(18)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502064000 +0800" stop="20260502070000 +0800">
+        <title lang="zh">菩提树下(19)</title>
     </programme>
     <programme channel="东方卫视" start="20260502070000 +0800" stop="20260502070100 +0800">
         <title lang="zh">中华人民共和国国歌</title>
     </programme>
-    <programme channel="东方卫视" start="20260502070100 +0800" stop="20260502085900 +0800">
+    <programme channel="东方卫视" start="20260502070100 +0800" stop="20260502075900 +0800">
         <title lang="zh">看东方</title>
     </programme>
-    <programme channel="东方卫视" start="20260502085900 +0800" stop="20260502090200 +0800">
+    <programme channel="东方卫视" start="20260502075900 +0800" stop="20260502080000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260502090200 +0800" stop="20260502093100 +0800">
-        <title lang="zh">潮童天下</title>
+    <programme channel="东方卫视" start="20260502080000 +0800" stop="20260502082200 +0800">
+        <title lang="zh">上海工匠第十一季(3)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502093100 +0800" stop="20260502104300 +0800">
-        <title lang="zh">电视剧:都挺好</title>
+    <programme channel="东方卫视" start="20260502082200 +0800" stop="20260502084500 +0800">
+        <title lang="zh">上海工匠第十一季(4)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502104300 +0800" stop="20260502105100 +0800">
-        <title lang="zh">电视剧:都挺好</title>
+    <programme channel="东方卫视" start="20260502084500 +0800" stop="20260502092300 +0800">
+        <title lang="zh">都挺好</title>
     </programme>
-    <programme channel="东方卫视" start="20260502105100 +0800" stop="20260502120000 +0800">
-        <title lang="zh">电视剧:都挺好</title>
+    <programme channel="东方卫视" start="20260502092300 +0800" stop="20260502100500 +0800">
+        <title lang="zh">都挺好(29)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502120000 +0800" stop="20260502123100 +0800">
-        <title lang="zh">午间30分</title>
+    <programme channel="东方卫视" start="20260502100500 +0800" stop="20260502104700 +0800">
+        <title lang="zh">都挺好(30)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502123100 +0800" stop="20260502131900 +0800">
-        <title lang="zh">电视剧:他为什么依然单身</title>
+    <programme channel="东方卫视" start="20260502104700 +0800" stop="20260502112900 +0800">
+        <title lang="zh">都挺好(31)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502131900 +0800" stop="20260502140700 +0800">
-        <title lang="zh">电视剧:他为什么依然单身</title>
+    <programme channel="东方卫视" start="20260502112900 +0800" stop="20260502120000 +0800">
+        <title lang="zh">潮童天下(1144)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502140700 +0800" stop="20260502145100 +0800">
-        <title lang="zh">电视剧:他为什么依然单身</title>
+    <programme channel="东方卫视" start="20260502120000 +0800" stop="20260502122800 +0800">
+        <title lang="zh">中国考古报道(107)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502145100 +0800" stop="20260502153400 +0800">
-        <title lang="zh">电视剧:他为什么依然单身</title>
+    <programme channel="东方卫视" start="20260502122800 +0800" stop="20260502131000 +0800">
+        <title lang="zh">双城记:两岸青年论坛2025精华版</title>
     </programme>
-    <programme channel="东方卫视" start="20260502153400 +0800" stop="20260502162100 +0800">
-        <title lang="zh">电视剧:他为什么依然单身</title>
+    <programme channel="东方卫视" start="20260502131000 +0800" stop="20260502135500 +0800">
+        <title lang="zh">蛮好的人生(2)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502162100 +0800" stop="20260502171000 +0800">
-        <title lang="zh">电视剧:他为什么依然单身</title>
+    <programme channel="东方卫视" start="20260502135500 +0800" stop="20260502143700 +0800">
+        <title lang="zh">蛮好的人生(3)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502171000 +0800" stop="20260502173500 +0800">
-        <title lang="zh">文娱新天地</title>
+    <programme channel="东方卫视" start="20260502143700 +0800" stop="20260502152200 +0800">
+        <title lang="zh">蛮好的人生(4)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502173500 +0800" stop="20260502180000 +0800">
-        <title lang="zh">名医话养生</title>
+    <programme channel="东方卫视" start="20260502152200 +0800" stop="20260502160400 +0800">
+        <title lang="zh">蛮好的人生(5)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502160400 +0800" stop="20260502164900 +0800">
+        <title lang="zh">蛮好的人生(6)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502164900 +0800" stop="20260502173400 +0800">
+        <title lang="zh">正在播出蛮好的人生(7)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260502173400 +0800" stop="20260502180000 +0800">
+        <title lang="zh">下一站(220):沪上武林外传</title>
     </programme>
     <programme channel="东方卫视" start="20260502180000 +0800" stop="20260502185700 +0800">
         <title lang="zh">东方新闻</title>
@@ -3879,23 +3906,23 @@
     <programme channel="东方卫视" start="20260502185700 +0800" stop="20260502190000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260502190000 +0800" stop="20260502193500 +0800">
-        <title lang="zh">新闻联播</title>
+    <programme channel="东方卫视" start="20260502190000 +0800" stop="20260502193000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="东方卫视" start="20260502193500 +0800" stop="20260502202100 +0800">
-        <title lang="zh">电视剧:蜜语纪</title>
+    <programme channel="东方卫视" start="20260502193000 +0800" stop="20260502201000 +0800">
+        <title lang="zh">东方剧场:蜜语纪(33)</title>
     </programme>
-    <programme channel="东方卫视" start="20260502202100 +0800" stop="20260502225000 +0800">
-        <title lang="zh">今晚不加班</title>
+    <programme channel="东方卫视" start="20260502201000 +0800" stop="20260502201500 +0800">
+        <title lang="zh">明日精彩看点</title>
     </programme>
-    <programme channel="东方卫视" start="20260502225000 +0800" stop="20260502232900 +0800">
-        <title lang="zh">今晚</title>
+    <programme channel="东方卫视" start="20260502201500 +0800" stop="20260502220000 +0800">
+        <title lang="zh">剧耀东方2026电视剧品质盛典精编</title>
     </programme>
-    <programme channel="东方卫视" start="20260502232900 +0800" stop="20260502234300 +0800">
-        <title lang="zh">天气预报</title>
+    <programme channel="东方卫视" start="20260502220000 +0800" stop="20260502230000 +0800">
+        <title lang="zh">第47届十大中文金曲颁奖音乐会</title>
     </programme>
-    <programme channel="东方卫视" start="20260502234300 +0800" stop="20260503000300 +0800">
-        <title lang="zh">极限挑战宝藏行</title>
+    <programme channel="东方卫视" start="20260502230000 +0800" stop="20260503000300 +0800">
+        <title lang="zh">第47届十大中文金曲颁奖音乐会</title>
     </programme>
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
