@@ -1293,13 +1293,13 @@
     <programme channel="CCTV13新闻" start="20260503210000 +0800" stop="20260503213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260503213000 +0800" stop="20260503221500 +0800">
-        <title lang="zh">面对面</title>
+    <programme channel="CCTV13新闻" start="20260503213000 +0800" stop="20260503220500 +0800">
+        <title lang="zh">2026吾家吾国</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260503221500 +0800" stop="20260503230000 +0800">
+    <programme channel="CCTV13新闻" start="20260503220500 +0800" stop="20260503225000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260503230000 +0800" stop="20260503235900 +0800">
+    <programme channel="CCTV13新闻" start="20260503225000 +0800" stop="20260503235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
