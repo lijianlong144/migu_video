@@ -97,13 +97,13 @@
         <title lang="zh">前情提要-主角-第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260525200400 +0800" stop="20260525205400 +0800">
-        <title lang="zh">主角27/48</title>
+        <title lang="zh">主角第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260525205400 +0800" stop="20260525205635 +0800">
         <title lang="zh">前情提要-主角-第28集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260525205635 +0800" stop="20260525214550 +0800">
-        <title lang="zh">主角28/48</title>
+        <title lang="zh">主角第28集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260525214550 +0800" stop="20260525215520 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -865,19 +865,19 @@
         <title lang="zh">本集提要-家业-第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260525193000 +0800" stop="20260525202540 +0800">
-        <title lang="zh">家业17/42</title>
+        <title lang="zh">家业第17集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260525202540 +0800" stop="20260525203040 +0800">
         <title lang="zh">本集提要-家业-第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260525203040 +0800" stop="20260525212440 +0800">
-        <title lang="zh">家业18/42</title>
+        <title lang="zh">家业第18集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260525212440 +0800" stop="20260525212940 +0800">
         <title lang="zh">本集提要-雨霖铃-第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260525212940 +0800" stop="20260525222110 +0800">
-        <title lang="zh">雨霖铃25/37</title>
+        <title lang="zh">雨霖铃第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260525222110 +0800" stop="20260525230940 +0800">
         <title lang="zh">剧说很好看-2026-21</title>
@@ -4428,7 +4428,7 @@
     <programme channel="河北卫视" start="20260525233000 +0800" stop="20260525233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260525233300 +0800" stop="20260526000000 +0800">
+    <programme channel="河北卫视" start="20260525233300 +0800" stop="20260526001500 +0800">
         <title lang="zh">但愿人长久</title>
     </programme>
     <channel id="江西卫视">
