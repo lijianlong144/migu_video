@@ -543,10 +543,10 @@
     <programme channel="CCTV5体育" start="20260604183000 +0800" stop="20260604193000 +0800">
         <title lang="zh">足球之夜</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260604193000 +0800" stop="20260604213000 +0800">
+    <programme channel="CCTV5体育" start="20260604193000 +0800" stop="20260604220000 +0800">
         <title lang="zh">2026年世界女排联赛-南京站(中国队-泰国队)</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260604213000 +0800" stop="20260604223000 +0800">
+    <programme channel="CCTV5体育" start="20260604220000 +0800" stop="20260604223000 +0800">
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20260604223000 +0800" stop="20260604230000 +0800">
@@ -4038,7 +4038,7 @@
     <programme channel="广东卫视" start="20260604225500 +0800" stop="20260604234000 +0800">
         <title lang="zh">无尽的尽头(21)</title>
     </programme>
-    <programme channel="广东卫视" start="20260604234000 +0800" stop="20260605000000 +0800">
+    <programme channel="广东卫视" start="20260604234000 +0800" stop="20260605001700 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -10587,44 +10587,50 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260604000000 +0800" stop="20260604055900 +0800">
-        <title lang="zh">猪猪侠之功夫小英雄一</title>
+    <programme channel="嘉佳卡通" start="20260604000000 +0800" stop="20260604044600 +0800">
+        <title lang="zh">超级飞侠三</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604044600 +0800" stop="20260604055900 +0800">
+        <title lang="zh">超级飞侠四</title>
     </programme>
     <programme channel="嘉佳卡通" start="20260604055900 +0800" stop="20260604080100 +0800">
         <title lang="zh">猪猪侠之超星五灵侠七</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260604080100 +0800" stop="20260604090900 +0800">
+    <programme channel="嘉佳卡通" start="20260604080100 +0800" stop="20260604090200 +0800">
         <title lang="zh">薇薇猫的日常</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260604090900 +0800" stop="20260604113500 +0800">
-        <title lang="zh">喜羊羊与灰太狼之羊村守护者四</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260604113500 +0800" stop="20260604142700 +0800">
-        <title lang="zh">奶龙与小七之大战暴暴龙</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260604142700 +0800" stop="20260604160000 +0800">
-        <title lang="zh">奶龙之奇妙冒险</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260604160000 +0800" stop="20260604183400 +0800">
-        <title lang="zh">奶龙搞怪大作战</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260604183400 +0800" stop="20260604190000 +0800">
+    <programme channel="嘉佳卡通" start="20260604090200 +0800" stop="20260604105600 +0800">
         <title lang="zh">超级飞侠二十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260604190000 +0800" stop="20260604191200 +0800">
-        <title lang="zh">咖宝车神之超能救援</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260604191200 +0800" stop="20260604200000 +0800">
-        <title lang="zh">超级飞侠二十</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260604200000 +0800" stop="20260604202900 +0800">
+    <programme channel="嘉佳卡通" start="20260604105600 +0800" stop="20260604135700 +0800">
         <title lang="zh">喜羊羊与灰太狼之羊村守护者十二</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260604202900 +0800" stop="20260604213500 +0800">
-        <title lang="zh">2026嘉佳卡通六一晚会</title>
+    <programme channel="嘉佳卡通" start="20260604135700 +0800" stop="20260604155300 +0800">
+        <title lang="zh">巴啦啦之曜星守护者一</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260604213500 +0800" stop="20260605000000 +0800">
-        <title lang="zh">猪猪侠之超星五灵侠三</title>
+    <programme channel="嘉佳卡通" start="20260604155300 +0800" stop="20260604173600 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604173600 +0800" stop="20260604190000 +0800">
+        <title lang="zh">飞狗莫柯之家有小短腿一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604190000 +0800" stop="20260604191300 +0800">
+        <title lang="zh">咖宝车神之超能救援</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604191300 +0800" stop="20260604200000 +0800">
+        <title lang="zh">超级飞侠二十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604200000 +0800" stop="20260604210900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者十二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604210900 +0800" stop="20260604211200 +0800">
+        <title lang="zh">嗨!小喇叭-佛山高新一小科技节</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604211200 +0800" stop="20260604220100 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者十二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260604220100 +0800" stop="20260605000000 +0800">
+        <title lang="zh">猪猪侠之超星五灵侠二</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
