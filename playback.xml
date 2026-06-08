@@ -435,11 +435,8 @@
     <programme channel="CCTV4中文国际" start="20260608164200 +0800" stop="20260608170000 +0800">
         <title lang="zh">平凡匠心-2025-14</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260608170000 +0800" stop="20260608171500 +0800">
+    <programme channel="CCTV4中文国际" start="20260608170000 +0800" stop="20260608180000 +0800">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260608171500 +0800" stop="20260608180000 +0800">
-        <title lang="zh">远方的家2026-118</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260608180000 +0800" stop="20260608190000 +0800">
         <title lang="zh">中国新闻</title>
@@ -468,14 +465,11 @@
     <programme channel="CCTV4中文国际" start="20260608223000 +0800" stop="20260608230000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260608230000 +0800" stop="20260608232000 +0800">
+    <programme channel="CCTV4中文国际" start="20260608230000 +0800" stop="20260608233500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260608232000 +0800" stop="20260608234400 +0800">
+    <programme channel="CCTV4中文国际" start="20260608233500 +0800" stop="20260608235900 +0800">
         <title lang="zh">传世古建-拙政园</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260608234400 +0800" stop="20260608235900 +0800">
-        <title lang="zh">平凡匠心-2025-7</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
@@ -1332,11 +1326,8 @@
     <programme channel="CCTV13新闻" start="20260608060000 +0800" stop="20260608090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260608090000 +0800" stop="20260608091200 +0800">
+    <programme channel="CCTV13新闻" start="20260608090000 +0800" stop="20260608100000 +0800">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260608091200 +0800" stop="20260608100000 +0800">
-        <title lang="zh">世界周刊</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260608100000 +0800" stop="20260608110000 +0800">
         <title lang="zh">新闻直播间</title>
@@ -1353,11 +1344,8 @@
     <programme channel="CCTV13新闻" start="20260608130000 +0800" stop="20260608140000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260608140000 +0800" stop="20260608141200 +0800">
+    <programme channel="CCTV13新闻" start="20260608140000 +0800" stop="20260608150000 +0800">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260608141200 +0800" stop="20260608150000 +0800">
-        <title lang="zh">面对面</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260608150000 +0800" stop="20260608160000 +0800">
         <title lang="zh">新闻直播间</title>
@@ -4278,7 +4266,7 @@
     <programme channel="辽宁卫视" start="20260608225200 +0800" stop="20260608233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260608233100 +0800" stop="20260609000000 +0800">
+    <programme channel="辽宁卫视" start="20260608233100 +0800" stop="20260609002600 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
