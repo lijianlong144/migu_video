@@ -63,25 +63,25 @@
     <programme channel="CCTV1综合" start="20260609115345 +0800" stop="20260609120000 +0800">
         <title lang="zh">秘境之眼-2026-139</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609120000 +0800" stop="20260609123415 +0800">
+    <programme channel="CCTV1综合" start="20260609120000 +0800" stop="20260609124315 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609123415 +0800" stop="20260609130715 +0800">
+    <programme channel="CCTV1综合" start="20260609124315 +0800" stop="20260609131515 +0800">
         <title lang="zh">今日说法-2026-101</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609130715 +0800" stop="20260609135400 +0800">
+    <programme channel="CCTV1综合" start="20260609131515 +0800" stop="20260609140200 +0800">
         <title lang="zh">家业第20集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609135400 +0800" stop="20260609144145 +0800">
+    <programme channel="CCTV1综合" start="20260609140200 +0800" stop="20260609144845 +0800">
         <title lang="zh">家业第21集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609144145 +0800" stop="20260609152845 +0800">
+    <programme channel="CCTV1综合" start="20260609144845 +0800" stop="20260609153545 +0800">
         <title lang="zh">家业第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609152845 +0800" stop="20260609161800 +0800">
+    <programme channel="CCTV1综合" start="20260609153545 +0800" stop="20260609162300 +0800">
         <title lang="zh">家业第23集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260609161800 +0800" stop="20260609171000 +0800">
+    <programme channel="CCTV1综合" start="20260609162300 +0800" stop="20260609171000 +0800">
         <title lang="zh">家业第24集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260609171000 +0800" stop="20260609173700 +0800">
@@ -414,14 +414,11 @@
     <programme channel="CCTV4中文国际" start="20260609143130 +0800" stop="20260609150000 +0800">
         <title lang="zh">记住乡愁2026-44</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260609150000 +0800" stop="20260609151730 +0800">
+    <programme channel="CCTV4中文国际" start="20260609150000 +0800" stop="20260609153000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260609151730 +0800" stop="20260609154130 +0800">
+    <programme channel="CCTV4中文国际" start="20260609153000 +0800" stop="20260609160000 +0800">
         <title lang="zh">传世古建-安徽宏村</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260609154130 +0800" stop="20260609160000 +0800">
-        <title lang="zh">平凡匠心-2025-32</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260609160000 +0800" stop="20260609161500 +0800">
         <title lang="zh">中国新闻</title>
@@ -504,11 +501,11 @@
     <programme channel="CCTV5体育" start="20260609080300 +0800" stop="20260609083000 +0800">
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 1</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260609083000 +0800" stop="20260609113000 +0800">
+    <programme channel="CCTV5体育" start="20260609083000 +0800" stop="20260609113200 +0800">
         <title lang="zh">2025/2026赛季美国职业篮球联赛-总决赛（马刺-尼克斯）第三场</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260609113000 +0800" stop="20260609115500 +0800">
-        <title lang="zh">实况录像-2026年国际篮联三人篮球世界杯 女子决赛</title>
+    <programme channel="CCTV5体育" start="20260609113200 +0800" stop="20260609115500 +0800">
+        <title lang="zh">实况录像-体操世界杯 奥西耶克站 女子高低杠决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260609115500 +0800" stop="20260609120000 +0800">
         <title lang="zh">健身动起来</title>
@@ -889,13 +886,13 @@
         <title lang="zh">本集提要-迷墙-第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260609193000 +0800" stop="20260609202540 +0800">
-        <title lang="zh">迷墙5/20</title>
+        <title lang="zh">迷墙第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260609202540 +0800" stop="20260609203040 +0800">
         <title lang="zh">本集提要-迷墙-第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260609203040 +0800" stop="20260609212440 +0800">
-        <title lang="zh">迷墙6/20</title>
+        <title lang="zh">迷墙第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260609212440 +0800" stop="20260609212940 +0800">
         <title lang="zh">本集提要-太行谣-第15集</title>
@@ -4545,7 +4542,7 @@
     <programme channel="河北卫视" start="20260609233000 +0800" stop="20260609233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260609233300 +0800" stop="20260610000000 +0800">
+    <programme channel="河北卫视" start="20260609233300 +0800" stop="20260610000800 +0800">
         <title lang="zh">纪录片：中老铁路纪行</title>
     </programme>
     <channel id="江西卫视">
