@@ -1,13 +1,13 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV13新闻,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14730590699_strL_GameAvcHdL0.flv?txSecret=4b62a5911dbeb69457178a0efbe034a1&txTime=6a2dfd97&stat=Ka8usuEACgkwlUoPKGiktVrfw0uy48vaQS7N%2BbUCgVwpsCWcHego3nm4ICHsOTNH&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=yiFGYWtXdMk&fd=0&ss=s20&tfc_buyer=0
-CCTV13新闻,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14737806480_strL_GameAvcHdL0.flv?txSecret=f2afe52fef01182f53939cfd6e5c575f&txTime=6a2dfe13&stat=51Vqisswo7%2FZMUUEIsndqDOmbk7R71wHJ4YMKGvX80f4mxOx6KVlKjMi5UF9upTm&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=2VFvtmBfN1g&fd=0&ss=s20&tfc_buyer=0
+CCTV13新闻,http://pull-hls-f26.douyinliving.com/media/stream-695984756161250130.m3u8?expire=6a371cf5&sign=be704940fa13a460fe8ad55479c121aa&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260614070629FC635469571289DC0D0C-K285e7
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 广东地区,#genre#
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -40,6 +40,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -65,7 +66,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -99,7 +99,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -137,6 +136,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 迁西农业,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 福建地区,#genre#
+漳浦综合,http://183.250.71.80:8090/hls/0/index.m3u8
 河南地区,#genre#
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
@@ -299,8 +299,9 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV13超清,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14730590699_strL_GameAvcHdL0.flv?txSecret=4b62a5911dbeb69457178a0efbe034a1&txTime=6a2dfd97&stat=Ka8usuEACgkwlUoPKGiktVrfw0uy48vaQS7N%2BbUCgVwpsCWcHego3nm4ICHsOTNH&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=yiFGYWtXdMk&fd=0&ss=s20&tfc_buyer=0
-CCTV13超清,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14737806480_strL_GameAvcHdL0.flv?txSecret=f2afe52fef01182f53939cfd6e5c575f&txTime=6a2dfe13&stat=51Vqisswo7%2FZMUUEIsndqDOmbk7R71wHJ4YMKGvX80f4mxOx6KVlKjMi5UF9upTm&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=2VFvtmBfN1g&fd=0&ss=s20&tfc_buyer=0
+CCTV13超清,http://pull-hls-f26.douyinliving.com/media/stream-695984756161250130.m3u8?expire=6a371cf5&sign=be704940fa13a460fe8ad55479c121aa&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260614070629FC635469571289DC0D0C-K285e7
+CCTV13超清,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14730590699_strL_GameAvcHdL0.flv?txSecret=ebfa3d3f02234280ce763b6830dcab5a&txTime=6a2f3431&stat=XwjmILVDk%2Bb8Bt5vZZDI%2Ff5yaFErUlFNJW%2BbVqa5xEPWESLPe8WGJVQTwQ6sDGGg&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2062&no_script=1&srcStrm=yiFGYWtXdMk&fd=0&ss=s20&tfc_buyer=0
+CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
