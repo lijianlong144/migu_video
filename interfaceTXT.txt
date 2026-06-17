@@ -5,10 +5,8 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-广西卫视,http://61.169.47.100:10081/hls/21/index.m3u8
 广东地区,#genre#
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -16,7 +14,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
-深圳电视剧,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -66,6 +63,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -95,12 +93,10 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 广西地区,#genre#
 安徽地区,#genre#
-萧县新闻综合,http://60.171.239.216:9080/hls/stream1.m3u8
 吉林地区,#genre#
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州2,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
@@ -144,9 +140,9 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考综合,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 伊川综合,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+周口新闻综合,http://222.136.190.68:8081/live/6520562530090312540.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 长垣综合,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
@@ -302,7 +298,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV13超清,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14737806480_strL_GameAvcHdL0.flv?txSecret=16db8ac79f32fda5355f7e8796d49f8a&txTime=6a331c92&stat=%2Bp3q%2Bhya%2FLZTPOBV%2FK88Y6yGxFZW0y%2FBOgDc6ys4SHhvHrpNOzmUD5whdEJwbpLP&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=2VFvtmBfN1g&fd=0&ss=s20&tfc_buyer=0
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
