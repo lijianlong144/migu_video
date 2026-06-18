@@ -100,7 +100,7 @@
         <title lang="zh">前情提要-星月征途-第16集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260618200200 +0800" stop="20260618205310 +0800">
-        <title lang="zh">星月征途16/20</title>
+        <title lang="zh">星月征途第16集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260618205310 +0800" stop="20260618205720 +0800">
         <title lang="zh">前情提要-星月征途-第17集</title>
@@ -3981,7 +3981,7 @@
     <programme channel="广东卫视" start="20260618230500 +0800" stop="20260618235000 +0800">
         <title lang="zh">雪迷宫(9)</title>
     </programme>
-    <programme channel="广东卫视" start="20260618235000 +0800" stop="20260619000000 +0800">
+    <programme channel="广东卫视" start="20260618235000 +0800" stop="20260619001500 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4251,7 +4251,7 @@
     <programme channel="辽宁卫视" start="20260618230300 +0800" stop="20260618233500 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260618233500 +0800" stop="20260619000000 +0800">
+    <programme channel="辽宁卫视" start="20260618233500 +0800" stop="20260619003800 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4404,7 +4404,7 @@
     <programme channel="河北卫视" start="20260618233000 +0800" stop="20260618233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260618233300 +0800" stop="20260619000000 +0800">
+    <programme channel="河北卫视" start="20260618233300 +0800" stop="20260619000800 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
