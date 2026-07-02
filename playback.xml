@@ -1482,13 +1482,19 @@
     <programme channel="CCTV15音乐" start="20260702193000 +0800" stop="20260702204530 +0800">
         <title lang="zh">合唱先锋-2026-5</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260702204530 +0800" stop="20260702223100 +0800">
-        <title lang="zh">河海津韵-天津交响乐团音乐会</title>
+    <programme channel="CCTV15音乐" start="20260702204530 +0800" stop="20260702211139 +0800">
+        <title lang="zh">庆祝中国共产党成立105周年音乐会-1/3</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260702223100 +0800" stop="20260702234630 +0800">
+    <programme channel="CCTV15音乐" start="20260702211139 +0800" stop="20260702213108 +0800">
+        <title lang="zh">庆祝中国共产党成立105周年音乐会-2/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260702213108 +0800" stop="20260702220400 +0800">
+        <title lang="zh">庆祝中国共产党成立105周年音乐会-3/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260702220400 +0800" stop="20260702231930 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-260</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260702234630 +0800" stop="20260702235900 +0800">
+    <programme channel="CCTV15音乐" start="20260702231930 +0800" stop="20260702235900 +0800">
         <title lang="zh">CCTV音乐厅-2026-122-巨匠之声·古典音乐大师系列音乐会（5）</title>
     </programme>
     <channel id="CCTV17农业农村">
