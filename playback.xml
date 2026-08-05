@@ -5202,7 +5202,7 @@
     <programme channel="东南卫视" start="20260805220600 +0800" stop="20260805230000 +0800">
         <title lang="zh">海峡新干线</title>
     </programme>
-    <programme channel="东南卫视" start="20260805230000 +0800" stop="20260806000000 +0800">
+    <programme channel="东南卫视" start="20260805230000 +0800" stop="20260806000600 +0800">
         <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
@@ -5439,7 +5439,7 @@
     <programme channel="海峡卫视" start="20260805225900 +0800" stop="20260805234200 +0800">
         <title lang="zh">海峡剧场:长风渡 第13集</title>
     </programme>
-    <programme channel="海峡卫视" start="20260805234200 +0800" stop="20260806000000 +0800">
+    <programme channel="海峡卫视" start="20260805234200 +0800" stop="20260806002500 +0800">
         <title lang="zh">海峡剧场:长风渡 第14集</title>
     </programme>
     <channel id="中国农林卫视">
