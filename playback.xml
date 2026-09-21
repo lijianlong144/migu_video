@@ -96,13 +96,13 @@
     <programme channel="CCTV1综合" start="20260921200420 +0800" stop="20260921200900 +0800">
         <title lang="zh">前情提要-生逢其时-第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260921200900 +0800" stop="20260921205825 +0800">
+    <programme channel="CCTV1综合" start="20260921200900 +0800" stop="20260921205840 +0800">
         <title lang="zh">生逢其时第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260921205825 +0800" stop="20260921210325 +0800">
+    <programme channel="CCTV1综合" start="20260921205840 +0800" stop="20260921210340 +0800">
         <title lang="zh">前情提要-生逢其时-第23集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260921210325 +0800" stop="20260921220000 +0800">
+    <programme channel="CCTV1综合" start="20260921210340 +0800" stop="20260921220000 +0800">
         <title lang="zh">生逢其时第23集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260921220000 +0800" stop="20260921223545 +0800">
@@ -300,17 +300,20 @@
     <programme channel="CCTV3综艺" start="20260921193000 +0800" stop="20260921205425 +0800">
         <title lang="zh">开门大吉-2026-38</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260921205425 +0800" stop="20260921215710 +0800">
-        <title lang="zh">第十三届丝绸之路国际电影节-开幕式-完整版</title>
+    <programme channel="CCTV3综艺" start="20260921205425 +0800" stop="20260921212614 +0800">
+        <title lang="zh">第十三届丝绸之路国际电影节-开幕式 1/3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260921215710 +0800" stop="20260921225230 +0800">
+    <programme channel="CCTV3综艺" start="20260921212614 +0800" stop="20260921215415 +0800">
+        <title lang="zh">第十三届丝绸之路国际电影节-开幕式 2/3</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260921215415 +0800" stop="20260921222810 +0800">
+        <title lang="zh">第十三届丝绸之路国际电影节-开幕式-3/3</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260921222810 +0800" stop="20260921232330 +0800">
         <title lang="zh">综艺喜乐汇-2026-623</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260921225230 +0800" stop="20260921233830 +0800">
+    <programme channel="CCTV3综艺" start="20260921232330 +0800" stop="20260921235900 +0800">
         <title lang="zh">综艺喜乐汇-2026-964 护宝寻踪26/36</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260921233830 +0800" stop="20260921235900 +0800">
-        <title lang="zh">综艺喜乐汇-2026-965 护宝寻踪27/36</title>
     </programme>
     <channel id="CCTV4中文国际">
         <display-name lang="zh">CCTV4中文国际</display-name>
@@ -561,14 +564,8 @@
     <programme channel="CCTV5+体育赛事" start="20260921143000 +0800" stop="20260921150000 +0800">
         <title lang="zh">录像：2026年亚运会 射击女子10米气步枪决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260921150000 +0800" stop="20260921170000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260921150000 +0800" stop="20260921182000 +0800">
         <title lang="zh">直播：2026年亚运会 女排半决赛（中国VS泰国）</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20260921170000 +0800" stop="20260921173000 +0800">
-        <title lang="zh">直播：2026年亚运会 空手道女子-61、男子-67、女子-68公斤级决赛</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20260921173000 +0800" stop="20260921182000 +0800">
-        <title lang="zh">录像：2026年亚运会 体操男子资格赛2暨男子全能</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260921182000 +0800" stop="20260921200000 +0800">
         <title lang="zh">直播：2026年亚运会 女排半决赛（日本VS韩国）</title>
@@ -4173,7 +4170,7 @@
     <programme channel="辽宁卫视" start="20260921225200 +0800" stop="20260921233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260921233100 +0800" stop="20260922000000 +0800">
+    <programme channel="辽宁卫视" start="20260921233100 +0800" stop="20260922003400 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
