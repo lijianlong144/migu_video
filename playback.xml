@@ -483,10 +483,10 @@
     <programme channel="CCTV5+体育赛事" start="20261003115500 +0800" stop="20261003150000 +0800">
         <title lang="zh">2026年亚运会-赛事直播15</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261003150000 +0800" stop="20261003170000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20261003150000 +0800" stop="20261003190000 +0800">
         <title lang="zh">2026年中国网球公开赛-女单、男单第二轮2</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20261003170000 +0800" stop="20261003203500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20261003190000 +0800" stop="20261003203500 +0800">
         <title lang="zh">2026年亚运会-赛事直播16</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20261003203500 +0800" stop="20261003215600 +0800">
@@ -5341,22 +5341,22 @@
         <title lang="zh">拉家常</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003083000 +0800" stop="20261003090000 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-游击英雄40</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003090000 +0800" stop="20261003093300 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-游击英雄41</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003093300 +0800" stop="20261003100600 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-游击英雄42</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003100600 +0800" stop="20261003104000 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-游击英雄43</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003104000 +0800" stop="20261003112000 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-游击英雄44</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003112000 +0800" stop="20261003115300 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-游击英雄45</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003115300 +0800" stop="20261003120800 +0800">
         <title lang="zh">农村大市场</title>
@@ -5377,22 +5377,22 @@
         <title lang="zh">第一农经</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003140100 +0800" stop="20261003143200 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-重案六组14</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003143200 +0800" stop="20261003150500 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-重案六组15</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003150500 +0800" stop="20261003153900 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-重案六组16</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003153900 +0800" stop="20261003161200 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-重案六组17</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003161200 +0800" stop="20261003164200 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-重案六组18</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003164200 +0800" stop="20261003171700 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-重案六组19</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003171700 +0800" stop="20261003174700 +0800">
         <title lang="zh">拉家常</title>
@@ -5404,16 +5404,16 @@
         <title lang="zh">秦之声大剧院</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003183900 +0800" stop="20261003190900 +0800">
-        <title lang="zh">剧场-装台</title>
+        <title lang="zh">剧场-装台24</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003190900 +0800" stop="20261003194200 +0800">
-        <title lang="zh">剧场-装台</title>
+        <title lang="zh">剧场-装台25</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003194200 +0800" stop="20261003201500 +0800">
-        <title lang="zh">剧场-装台</title>
+        <title lang="zh">剧场-装台26</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003201500 +0800" stop="20261003203900 +0800">
-        <title lang="zh">专题节目五</title>
+        <title lang="zh">第一农经</title>
     </programme>
     <programme channel="中国农林卫视" start="20261003203900 +0800" stop="20261003204900 +0800">
         <title lang="zh">为老乡支一招</title>
